@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>想多放假的学牲</title>
+  
+  <subtitle>浙江和江苏差不多</subtitle>
+  <link href="https://kylin-coder.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kylin-coder.github.io/"/>
+  <updated>2026-01-18T10:04:53.033Z</updated>
+  <id>https://kylin-coder.github.io/</id>
+  
+  <author>
+    <name>Kylin-coder</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Testpost</title>
+    <link href="https://kylin-coder.github.io/2026/01/18/Testpost/"/>
+    <id>https://kylin-coder.github.io/2026/01/18/Testpost/</id>
+    <published>2026-01-18T05:23:21.000Z</published>
+    <updated>2026-01-18T10:04:53.033Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的第一个-Markdown-文档&quot;&gt;&lt;a href=&quot;#我的第一个-Markdown-文档&quot; class=&quot;headerlink&quot; title=&quot;我的第一个 Markdown 文档&quot;&gt;&lt;/a&gt;我的第一个 Markdown 文档&lt;/h1&gt;&lt;p&gt;这是我学习</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="https://kylin-coder.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试类" scheme="https://kylin-coder.github.io/tags/%E6%B5%8B%E8%AF%95%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kylin-coder.github.io/2026/01/17/hello-world/"/>
+    <id>https://kylin-coder.github.io/2026/01/17/hello-world/</id>
+    <published>2026-01-17T10:43:39.124Z</published>
+    <updated>2026-01-17T10:43:39.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
